@@ -1,0 +1,26 @@
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+
+# Blender files and render results (do not publish personal projects)
+*.blend
+*.blend1
+*.blend2
+*.png
+*.jpg
+*.jpeg
+*.exr
+*.mp4
+*.mov
+*.avi
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
